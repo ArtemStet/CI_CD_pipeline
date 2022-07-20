@@ -1,17 +1,16 @@
 # Overview
 
-<TODO: complete this with an overview of your project>
+In this project, we will build a Github repository from scratch and create a scaffolding that will assist you in performing both Continuous Integration and Continuous Delivery. We'll use Github Actions along with a Makefile, requirements.txt and application code to perform an initial lint, test, and install cycle. Next, we'll integrate this project with Azure Pipelines to enable Continuous Delivery to Azure App Service.
 
 ## Project Plan
-<TODO: Project Plan
 
-* A link to a Trello board for the project
-* A link to a spreadsheet that includes the original and final project plan>
+* A link to a Trello board for the project: https://trello.com/b/IO6wfqrI/project-ci-cd
+* A link to a spreadsheet: https://docs.google.com/spreadsheets/d/1lQva3W4fR6LvbDaEz3O3PD10gi5qVnGgqO-b0LISt9I/edit#gid=1348135932 
 
 ## Instructions
 
-<TODO:  
-* Architectural Diagram (Shows how key parts of the system work)>
+* Architectural Diagram 
+![image](https://user-images.githubusercontent.com/83006335/180063741-06d147bd-8c45-4072-a2da-3875560bc672.png)
 
 <TODO:  Instructions for running the Python project.  How could a user with no context run this project without asking you for any help.  Include screenshots with explicit steps to create that work. Be sure to at least include the following screenshots:
 
