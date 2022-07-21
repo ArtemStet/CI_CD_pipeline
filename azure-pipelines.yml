@@ -18,14 +18,14 @@ trigger:
 - master
 
 # TODO: Replace the agent pool name
-pool: myAgentPool
+pool: myagentpool
 
 variables:
   # TODO: Replace the service connection name
-  azureServiceConnectionId: 'myserviceconnection'
+  azureServiceConnectionId: 'myservicecon10'
   
   # TODO: Replace 'mywebapp193576' with the existing Web App name
-  webAppName: 'mywebapp193576'
+  webAppName: 'mywebapp777000'
 
   # Environment name
   environmentName: 'flask-ml-service'
